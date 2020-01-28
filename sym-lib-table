@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name E7020E)(type Legacy)(uri H:/Documents/E7020E/Lab1/Lab1/E7020E.lib)(options "")(descr ""))
+  (lib (name Lab1-rescue)(type Legacy)(uri ${KIPRJMOD}/Lab1-rescue.lib)(options "")(descr ""))
+)
